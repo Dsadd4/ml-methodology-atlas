@@ -6,6 +6,8 @@
 
 ## 可视化前端
 
+**[在线访问方法论图谱](https://dsadd4.github.io/ml-methodology-atlas/)** · 无需下载，直接在浏览器使用。
+
 [打开离线前端](frontend/index.html)：方法搜索、六大分类、详情来源、最多三方法对比、论文库、可点击会议覆盖矩阵。可直接双击使用。
 
 本地预览：http://127.0.0.1:8768/frontend/index.html 。重建：`python scripts/build_frontend.py`；检查：`python scripts/check_frontend.py`。静态概览导出位于 `frontend/exports/`。

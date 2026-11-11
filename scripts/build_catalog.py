@@ -70,6 +70,10 @@ write('README.md',f'''# ML Methodology Atlas · 机器学习方法论图谱
 
 核心产物是方法论表：数学框架、直觉、适用问题、成立条件、失效边界和实际论文中的用法。保留原30类稳定编号；补充20类基础框架，并从本轮论文中拆出9类独立有用的框架。
 
+## 在线访问
+
+**[打开方法论图谱](https://dsadd4.github.io/ml-methodology-atlas/)**
+
 ## 阅读入口
 
 - [59类总表](METHODS.md)：先看全貌。
