@@ -1,0 +1,10 @@
+[arxiv] HTTP 429; retrying in 3s (attempt 2/4)
+[arxiv] Error on query 'flow matching': ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[dblp] Error on query 'flow matching': Expecting value: line 1 column 1 (char 0)
+
+Getting V1 Notes:   0%|          | 0/3792 [00:00<?, ?it/s]
+Getting V1 Notes:  26%|██▋       | 1000/3792 [00:02<00:07, 355.24it/s]
+Getting V1 Notes:  53%|█████▎    | 1999/3792 [00:04<00:04, 428.08it/s]
+Getting V1 Notes:  79%|███████▉  | 2997/3792 [00:20<00:01, 428.08it/s]
+Getting V1 Notes:  79%|███████▉  | 2998/3792 [00:20<00:06, 115.80it/s]
+Getting V1 Notes: 100%|█████████▉| 3788/3792 [00:22<00:00, 168.19it/s]

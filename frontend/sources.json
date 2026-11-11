@@ -1,0 +1,425 @@
+[
+  {
+    "id": "iclr2022-frame-averaging",
+    "title": "Frame Averaging for Invariant and Equivariant Network Design",
+    "url": "https://iclr.cc/virtual/2022/oral/6190",
+    "content_url": "https://arxiv.org/abs/2110.03336",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 Oral 总表链接至单篇 event 6190；HTTP200 全文标题含同名论文与 ICLR Oral，正文 2022 Oral。"
+  },
+  {
+    "id": "iclr2023-sign-basis",
+    "title": "Sign and Basis Invariant Networks for Spectral Graph Representation Learning",
+    "url": "https://iclr.cc/virtual/2023/events/oral",
+    "content_url": "https://arxiv.org/abs/2202.13013",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 2023 Oral 总表的同名条目直接标注 Oral。"
+  },
+  {
+    "id": "iclr2023-fab",
+    "title": "Flow Annealed Importance Sampling Bootstrap",
+    "url": "https://iclr.cc/virtual/2023/events/oral",
+    "content_url": "https://arxiv.org/abs/2208.01893",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 2023 Oral 总表的同名条目直接标注 Oral。"
+  },
+  {
+    "id": "iclr2023-not",
+    "title": "Neural Optimal Transport",
+    "url": "https://iclr.cc/virtual/2023/events/oral",
+    "content_url": "https://arxiv.org/abs/2201.12220",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 2023 Oral 总表的同名条目直接标注 Oral。"
+  },
+  {
+    "id": "iclr2023-dps",
+    "title": "Diffusion Posterior Sampling for General Noisy Inverse Problems",
+    "url": "https://iclr.cc/virtual/2023/events/oral",
+    "content_url": "https://arxiv.org/abs/2209.14687",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 2023 Oral 总表的同名条目直接标注 Oral。"
+  },
+  {
+    "id": "iclr2023-quality-diversity",
+    "title": "Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery",
+    "url": "https://iclr.cc/virtual/2023/events/oral",
+    "content_url": "https://arxiv.org/abs/2210.03516",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 2023 Oral 总表的同名条目直接标注 Oral。"
+  },
+  {
+    "id": "iclr2024-nash",
+    "title": "Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization",
+    "url": "https://iclr.cc/virtual/2024/oral/19744",
+    "content_url": "https://openreview.net/forum?id=cc8h3I3V4E",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方会议 Oral 页面列出同名论文并标注 2024 Oral。"
+  },
+  {
+    "id": "iclr2024-riemannian-flow",
+    "title": "Flow Matching on General Geometries",
+    "url": "https://iclr.cc/virtual/2024/oral/19740",
+    "content_url": "https://openreview.net/forum?id=g7ohDlTITL",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方会议 Oral 页面列出同名论文并标注 2024 Oral。"
+  },
+  {
+    "id": "iclr2024-robust-causal",
+    "title": "Robust agents learn causal world models",
+    "url": "https://blog.iclr.cc/category/iclr-2024/",
+    "content_url": "https://arxiv.org/abs/2402.10877",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "ICLR 官方 2024 博客将同名论文链接至 /virtual/2024/oral/19724。"
+  },
+  {
+    "id": "iclr2024-gflownet-inference",
+    "title": "Amortizing intractable inference in large language models",
+    "url": "https://blog.iclr.cc/category/iclr-2024/",
+    "content_url": "https://arxiv.org/abs/2310.04363",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "ICLR 官方 2024 博客将同名论文链接至 /virtual/2024/oral/19763。"
+  },
+  {
+    "id": "iclr2025-generator-matching",
+    "title": "Generator Matching: Generative modeling with arbitrary Markov processes",
+    "url": "https://iclr.cc/virtual/2025/oral/31846",
+    "content_url": "https://openreview.net/forum?id=RuP17cJtZo",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方页面经 requests HTTP 200 读取，正文明确标注 2025 Oral 并列出同名论文。"
+  },
+  {
+    "id": "iclr2026-glass",
+    "title": "GLASS Flows: Efficient Inference for Reward Alignment of Flow and Diffusion Models",
+    "url": "https://iclr.cc/virtual/2026/oral/10006825",
+    "content_url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/ad6ac52e02e14e0f2ddc0d4587ab47f1-Abstract-Conference.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 2026 Oral 总表链接至单篇 event 10006825；HTTP200 全文标题含同名论文与 ICLR Oral。"
+  },
+  {
+    "id": "icml2022-bayesian-selection",
+    "title": "Bayesian Model Selection, the Marginal Likelihood, and Generalization",
+    "url": "https://icml.cc/media/icml-2022/Slides/17992.pdf",
+    "content_url": "https://arxiv.org/abs/2202.11678",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "首页：ICML 2022, long oral presentation"
+  },
+  {
+    "id": "neurips2022-swap-regret",
+    "title": "Uncoupled Learning Dynamics with O(log T) Swap Regret in Multiplayer Games",
+    "url": "https://www.andrew.cmu.edu/user/ianagnos/",
+    "content_url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/15d45097f9806983f0629a77e93ee60f-Abstract-Conference.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "作者页面报告oral；官方2022 JSON仅找到Poster55247、decision=Accept，未找到独立Oral事件"
+  },
+  {
+    "id": "neurips2023-dpo",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "url": "https://neurips.cc/virtual/2023/oral/73865",
+    "content_url": "https://arxiv.org/abs/2305.18290",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "页面标注：2023 Oral"
+  },
+  {
+    "id": "icml2023-jawsx",
+    "title": "JAWS-X: Addressing Efficiency Bottlenecks of Conformal Prediction Under Standard and Feedback Covariate Shift",
+    "url": "https://icml.cc/static/virtual/data/icml-2023-orals-posters.json",
+    "content_url": "https://proceedings.mlr.press/v202/prinster23a.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方JSON id25430：decision=Accept (Oral & Poster)；virtualsite_url=/virtual/2023/oral/25430"
+  },
+  {
+    "id": "neurips2024-lightspeed",
+    "title": "Learning diffusion at lightspeed",
+    "url": "https://neurips.cc/media/neurips-2024/Slides/93047.pdf",
+    "content_url": "https://arxiv.org/abs/2406.12616",
+    "accessed": "2026-10-27",
+    "reading_depth": "method_section",
+    "supports": "官方托管幻灯片：NeurIPS 2024, oral"
+  },
+  {
+    "id": "icml2024-private-design",
+    "title": "Privacy Preserving Adaptive Experiment Design",
+    "url": "https://icml.cc/virtual/2024/oral/35582",
+    "content_url": "https://arxiv.org/abs/2401.08224",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "页面标注：2024 Oral"
+  },
+  {
+    "id": "icml2024-rate-policy",
+    "title": "Rate-Optimal Policy Optimization for Linear Markov Decision Processes",
+    "url": "https://icml.cc/virtual/2024/events/oral",
+    "content_url": "https://proceedings.mlr.press/v235/sherman24a.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方Oral列表包含该题；对应oral/35519"
+  },
+  {
+    "id": "icml2024-lsenet",
+    "title": "LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering",
+    "url": "https://icml.cc/virtual/2024/events/oral",
+    "content_url": "https://arxiv.org/abs/2405.11801",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方Oral列表包含该题；对应oral/35538"
+  },
+  {
+    "id": "icml2024-emergent-equivariance",
+    "title": "Emergent Equivariance in Deep Ensembles",
+    "url": "https://icml.cc/virtual/2024/events/oral",
+    "content_url": "https://arxiv.org/abs/2403.03103",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方Oral列表包含该题；对应oral/35462"
+  },
+  {
+    "id": "neurips2025-influence",
+    "title": "A Snapshot of Influence: A Local Data Attribution Framework for Online Reinforcement Learning",
+    "url": "https://neurips.cc/media/neurips-2025/Slides/115685.pdf",
+    "content_url": "https://arxiv.org/abs/2505.19281",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方托管幻灯片首页：NeurIPS 2025 oral"
+  },
+  {
+    "id": "icml2025-hierarchical-ot",
+    "title": "Hierarchical Refinement: Optimal Transport to Infinity and Beyond",
+    "url": "https://icml.cc/virtual/2025/oral/47248",
+    "content_url": "https://arxiv.org/abs/2503.03025",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "页面标注：2025 Oral"
+  },
+  {
+    "id": "icml2025-td-flow",
+    "title": "Temporal Difference Flows",
+    "url": "https://icml.cc/virtual/2025/oral/47200",
+    "content_url": "https://openreview.net/forum?id=j6H7c3aQyb",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "页面标注：2025 Oral"
+  },
+  {
+    "id": "icml2025-imm",
+    "title": "Inductive Moment Matching",
+    "url": "https://icml.cc/virtual/2025/events/oral",
+    "content_url": "https://arxiv.org/abs/2503.07565",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方Oral列表包含该题；对应oral/47188"
+  },
+  {
+    "id": "icml2025-defog",
+    "title": "DeFoG: Discrete Flow Matching for Graph Generation",
+    "url": "https://icml.cc/virtual/2025/events/oral",
+    "content_url": "https://arxiv.org/abs/2410.04263",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方Oral列表包含该题；官方作者代码链接oral/47238"
+  },
+  {
+    "id": "icml2025-wow",
+    "title": "Flowing Datasets with Wasserstein over Wasserstein Gradient Flows",
+    "url": "https://icml.cc/virtual/2025/events/oral",
+    "content_url": "https://arxiv.org/abs/2506.07534",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方Oral列表包含该题；对应oral/47240"
+  },
+  {
+    "id": "icml2023-subtb",
+    "title": "Learning GFlowNets From Partial Episodes For Improved Convergence And Stability",
+    "url": "https://icml.cc/media/icml-2023/Slides/25580_Op4JkaX.pdf",
+    "content_url": "https://proceedings.mlr.press/v202/madan23a.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方托管PDF标题：ICML 2023 ORAL FINAL"
+  },
+  {
+    "id": "neurips2026-drifting",
+    "title": "Generative Modeling via Drifting",
+    "url": "https://neurips.cc/static/virtual/data/neurips-2026-orals-posters.json",
+    "content_url": "https://arxiv.org/abs/2602.04770",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方JSON id154241：event_type=Oral；decision=Accept (oral)；virtualsite_url=/virtual/2026/oral/154241"
+  },
+  {
+    "id": "neurips2026-ftrl-limits",
+    "title": "Follow the Regularized Leader Does Not Converge in Constrained Optimization",
+    "url": "https://neurips.cc/static/virtual/data/neurips-2026-orals-posters.json",
+    "content_url": "https://arxiv.org/abs/2610.35004",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方JSON id150987：event_type=Oral；decision=Accept (oral)；virtualsite_url=/virtual/2026/oral/150987"
+  },
+  {
+    "id": "icml2026-information-flow",
+    "title": "Information Flow Reveals When to Trust Language Models",
+    "url": "https://icml.cc/static/virtual/data/icml-2026-orals-posters.json",
+    "content_url": "https://proceedings.mlr.press/v306/xu26c.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方JSON id71120：event_type=Oral；但decision=Accept (spotlight)；virtualsite_url=/virtual/2026/oral/71120"
+  },
+  {
+    "id": "vision-eccv22-pose",
+    "title": "Pose-NDF: Modelling Human Pose Manifolds with Neural Distance Fields",
+    "url": "https://eccv2022.ecva.net/program/accepted-papers/",
+    "content_url": "https://arxiv.org/abs/2207.13807",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 accepted-papers 第一张表 Oral papers，ID 1413；第二张表是 Poster，不混入。"
+  },
+  {
+    "id": "vision-eccv22-topology",
+    "title": "Learning Topological Interactions for Multi-Class Medical Image Segmentation",
+    "url": "https://eccv2022.ecva.net/program/accepted-papers/",
+    "content_url": "https://arxiv.org/abs/2207.09654",
+    "accessed": "2026-10-27",
+    "reading_depth": "method_section",
+    "supports": "官方 Oral papers 表，ID 6180；arXiv comment 亦注明 Oral。"
+  },
+  {
+    "id": "vision-eccv22-pactran",
+    "title": "PACTran: PAC-Bayesian Metrics for Estimating the Transferability of Pretrained Models to Classification Tasks",
+    "url": "https://eccv2022.ecva.net/program/accepted-papers/",
+    "content_url": "https://arxiv.org/abs/2203.05126",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 Oral papers 表，ID 6568。"
+  },
+  {
+    "id": "vision-iccv23-purification",
+    "title": "Robust Evaluation of Diffusion-Based Adversarial Purification",
+    "url": "https://iccv2023.thecvf.com/main.conference.program-107.php",
+    "content_url": "https://arxiv.org/abs/2303.09051",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "独立复核官方program：ID11381在Wednesday 4th 09:30–10:30 Orals。"
+  },
+  {
+    "id": "vision-cvpr24-map",
+    "title": "Producing and Leveraging Online Map Uncertainty in Trajectory Prediction",
+    "url": "https://cvpr.thecvf.com/Conferences/2024/News/Oral_Papers",
+    "content_url": "https://arxiv.org/abs/2403.16439",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "CVPR 2024 官方 Oral Papers 新闻页明确列名。"
+  },
+  {
+    "id": "vision-eccv24-race",
+    "title": "RACE: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model",
+    "url": "https://eccv.ecva.net/virtual/2024/oral/2342",
+    "content_url": "https://arxiv.org/abs/2405.16341",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "独立复核官方Oral总表，同名R.A.C.E.条目链接至oral/2342。"
+  },
+  {
+    "id": "vision-cvpr25-topocell",
+    "title": "TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model",
+    "url": "https://cvpr.thecvf.com/virtual/2025/oral/35356",
+    "content_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Xu_TopoCellGen_Generating_Histopathology_Cell_Topology_with_a_Diffusion_Model_CVPR_2025_paper.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方同名oral event 35356，独立审核HTTP200；官方slides另明确标注Oral Presentation。"
+  },
+  {
+    "id": "vision-cvpr25-convex",
+    "title": "Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World",
+    "url": "https://cvpr.thecvf.com/virtual/2025/oral/35342",
+    "content_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Liao_Convex_Relaxation_for_Robust_Vanishing_Point_Estimation_in_Manhattan_World_CVPR_2025_paper.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "method_section",
+    "supports": "官方 /virtual/2025/events/oral 列表的同名 oral event。"
+  },
+  {
+    "id": "vision-iccv25-flowedit",
+    "title": "FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models",
+    "url": "https://iccv.thecvf.com/virtual/2025/oral/2925",
+    "content_url": "https://iccv.thecvf.com/virtual/2025/oral/2925",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 oral event 2925，含同名摘要。"
+  },
+  {
+    "id": "vision-iccv25-diip",
+    "title": "Diffusion Image Prior",
+    "url": "https://iccv.thecvf.com/virtual/2025/oral/2934",
+    "content_url": "https://iccv.thecvf.com/virtual/2025/oral/2934",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 oral event 2934，含同名摘要。"
+  },
+  {
+    "id": "vision-cvpr26-unroll",
+    "title": "Efficient Unrolled Networks for Large-Scale 3D Inverse Problems",
+    "url": "https://cvpr.thecvf.com/virtual/2026/oral/40269",
+    "content_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Vo_Efficient_Unrolled_Networks_for_Large-Scale_3D_Inverse_Problems_CVPR_2026_paper.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 oral event 40269，含摘要和 CVF Paper PDF 链接。"
+  },
+  {
+    "id": "vision-cvpr26-rdvq",
+    "title": "Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression",
+    "url": "https://cvpr.thecvf.com/virtual/2026/oral/40298",
+    "content_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_Differentiable_Vector_Quantization_for_Rate-Distortion_Optimization_of_Generative_Image_Compression_CVPR_2026_paper.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 oral event 40298，含摘要和 CVF Paper PDF 链接。"
+  },
+  {
+    "id": "vision-eccv26-heat",
+    "title": "Heat Kernel Textures -- the Geodesic Gaussians That Do Not Splat",
+    "url": "https://eccv.ecva.net/virtual/2026/oral/6124",
+    "content_url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2392.pdf",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 oral event 6124，含摘要和官方论文 PDF 链接。"
+  },
+  {
+    "id": "vision-eccv26-mimflow",
+    "title": "MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation",
+    "url": "https://eccv.ecva.net/virtual/2026/oral/6128",
+    "content_url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2272.pdf",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 oral event 6128，含摘要和官方论文 PDF 链接。"
+  },
+  {
+    "id": "vision-cvpr22-snug",
+    "title": "SNUG: Self-Supervised Neural Dynamic Garments",
+    "url": "https://cvpr2022.thecvf.com/orals-622-pm",
+    "content_url": "https://openaccess.thecvf.com/content/CVPR2022/html/Santesteban_SNUG_Self-Supervised_Neural_Dynamic_Garments_CVPR_2022_paper.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 Orals 6/22 PM 页面，2022-06-22 13:30–15:00，21b列名。"
+  },
+  {
+    "id": "vision-cvpr23-mac",
+    "title": "3D Registration With Maximal Cliques",
+    "url": "https://media.icml.cc/Conferences/CVPR2023/CVPR_2023_MainConference_ProgramGuide.pdf",
+    "content_url": "https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_3D_Registration_With_Maximal_Cliques_CVPR_2023_paper.html",
+    "accessed": "2026-10-27",
+    "reading_depth": "abstract",
+    "supports": "官方 Program Guide 印刷p14/PDF第18页：2023-06-20 Oral-Award-Tue 15:10列名，Award candidate paper presentations。"
+  }
+]

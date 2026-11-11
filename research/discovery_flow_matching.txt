@@ -1,0 +1,47 @@
+
+per-source hits: arxiv=0, dblp=0, open_alex=2, openreview=2, semantic_scholar=2, crossref=2
+unique papers: 7 (1 cross-source duplicate records merged)
+============================================================
+  [1] (score 2) Flow Matching for Generative Modeling
+      Authors: Y. Lipman, Ricky T. Q. Chen, Heli Ben-Hamu...
+      Year: 2022  Citations: 7320  Venue: International Conference on Learning Representations
+      Sources: semantic_scholar,open_alex  doi:10.48550/arxiv.2210.02747 arXiv:2210.02747
+      URL: https://www.semanticscholar.org/paper/af68f10ab5078bfc519caae377c90ee6d9c504e9
+
+  [2] (score 2) FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space
+      Authors: Black Forest Labs, Stephen Batifol, A. Blattmann...
+      Year: 2025  Citations: 1151  Venue: arXiv.org
+      Sources: semantic_scholar  doi:10.48550/arXiv.2506.15742 arXiv:2506.15742
+      URL: https://www.semanticscholar.org/paper/81244a5f36534b41d6265d259082933d951c503e
+
+  [3] (score 2) GMFlow: Learning Optical Flow via Global Matching
+      Authors: Haofei Xu, Jing Zhang, Jianfei Cai...
+      Year: 2022  Citations: 437  Venue: IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings
+      Sources: open_alex  doi:10.1109/cvpr52688.2022.00795
+      URL: https://doi.org/10.1109/cvpr52688.2022.00795
+
+  [4] (score 2) Blockwise Flow Matching: Improving Flow Matching Models For Efficient High-Quality Generation
+      Authors: Dogyun Park, Taehoon Lee, Minseok Joo...
+      Year: 2025  Citations: 2  Venue: Advances in Neural Information Processing Systems 38
+      Sources: crossref  doi:10.52202/085713-2840
+      URL: https://doi.org/10.52202/085713-2840
+
+  [5] (score 2) CFlowNets: Continuous Control with Generative Flow Networks
+      Authors: Yinchuan Li, Shuang Luo, Haozhi Wang...
+      Year: 2022  Citations: 0  Venue: ICLR.cc/2023/Conference
+      Sources: openreview
+      URL: https://openreview.net/forum?id=yAYHho4fATa
+
+  [6] (score 2) Score Matching via Differentiable Physics
+      Authors: Benjamin Holzschuh, Simona Vegetti, Nils Thuerey
+      Year: 2022  Citations: 0  Venue: ICLR.cc/2023/Conference
+      Sources: openreview
+      URL: https://openreview.net/forum?id=t9myAV_dpCB
+
+  [7] (score 2) [survey] Review for "Generating Cyclic Conformers with Flow Matching in Cremer-Pople Coordinates"
+      Authors: 
+      Year: 2026  Citations: 0  Venue: 
+      Sources: crossref  doi:10.1039/d6dd00199h/v1/review2
+      URL: https://doi.org/10.1039/d6dd00199h/v1/review2
+
+Total: 7 unique papers (ranked; surveys sunk to the bottom).

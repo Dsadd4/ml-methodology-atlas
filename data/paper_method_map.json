@@ -1,0 +1,369 @@
+{
+  "iclr2022-frame-averaging": {
+    "primary": [
+      "M16"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "iclr2023-sign-basis": {
+    "primary": [
+      "M16"
+    ],
+    "secondary": [
+      "M41"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "iclr2023-fab": {
+    "primary": [
+      "M48"
+    ],
+    "secondary": [
+      "M55"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "iclr2023-not": {
+    "primary": [
+      "M20"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "iclr2023-dps": {
+    "primary": [
+      "M44"
+    ],
+    "secondary": [
+      "M26"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "iclr2023-quality-diversity": {
+    "primary": [
+      "M51"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "iclr2024-nash": {
+    "primary": [
+      "M31"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "iclr2024-riemannian-flow": {
+    "primary": [
+      "M45"
+    ],
+    "secondary": [
+      "M42"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "iclr2024-robust-causal": {
+    "primary": [
+      "M17"
+    ],
+    "secondary": [
+      "M13"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "iclr2024-gflownet-inference": {
+    "primary": [
+      "M47"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "iclr2025-generator-matching": {
+    "primary": [
+      "M52"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "iclr2026-glass": {
+    "primary": [
+      "M45"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-eccv22-pose": {
+    "primary": [
+      "M42"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-eccv22-topology": {
+    "primary": [
+      "M19"
+    ],
+    "secondary": [],
+    "note": "局部类别包含/排斥的结构约束，仅与M19相关；不证明采用概率因子图、消息传递或持久同调。",
+    "relation": "related"
+  },
+  "vision-eccv22-pactran": {
+    "primary": [
+      "M28"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-iccv23-purification": {
+    "primary": [
+      "M13"
+    ],
+    "secondary": [
+      "M26"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-cvpr24-map": {
+    "primary": [
+      "M01"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-eccv24-race": {
+    "primary": [
+      "M13"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-cvpr25-topocell": {
+    "primary": [
+      "M43"
+    ],
+    "secondary": [
+      "M26"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-cvpr25-convex": {
+    "primary": [
+      "M53"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-iccv25-flowedit": {
+    "primary": [
+      "M45"
+    ],
+    "secondary": [],
+    "note": "生成流为主要联系；运输相关目标不自动等于严格最优传输，未作为M20实证。"
+  },
+  "vision-iccv25-diip": {
+    "primary": [
+      "M54"
+    ],
+    "secondary": [
+      "M44"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-cvpr26-unroll": {
+    "primary": [
+      "M38"
+    ],
+    "secondary": [
+      "M44"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-cvpr26-rdvq": {
+    "primary": [
+      "M04"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-eccv26-heat": {
+    "primary": [
+      "M41"
+    ],
+    "secondary": [
+      "M42"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-eccv26-mimflow": {
+    "primary": [
+      "M55"
+    ],
+    "secondary": [],
+    "note": "归一化流用于模型组件；潜变量与解码器混合结构不自动具有精确整体边缘似然。"
+  },
+  "vision-cvpr22-snug": {
+    "primary": [
+      "M27"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "vision-cvpr23-mac": {
+    "primary": [
+      "M58"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "icml2022-bayesian-selection": {
+    "primary": [
+      "M01"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "neurips2022-swap-regret": {
+    "primary": [
+      "M33"
+    ],
+    "secondary": [
+      "M31"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "neurips2023-dpo": {
+    "primary": [
+      "M56"
+    ],
+    "secondary": [
+      "M03"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "icml2023-jawsx": {
+    "primary": [
+      "M29"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "neurips2024-lightspeed": {
+    "primary": [
+      "M59"
+    ],
+    "secondary": [
+      "M20"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "icml2024-private-design": {
+    "primary": [
+      "M57"
+    ],
+    "secondary": [
+      "M07"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "icml2024-rate-policy": {
+    "primary": [
+      "M33"
+    ],
+    "secondary": [
+      "M36",
+      "M37"
+    ],
+    "note": "在线遗憾与自然梯度/镜像下降；完整线性MDP不当作简单Bandit。",
+    "relation": "central"
+  },
+  "icml2024-lsenet": {
+    "primary": [
+      "M42"
+    ],
+    "secondary": [],
+    "note": "Lorentz几何为主要联系；最小结构熵不等同最大熵，因此不映射M03。"
+  },
+  "icml2024-emergent-equivariance": {
+    "primary": [
+      "M16"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "neurips2025-influence": {
+    "primary": [],
+    "secondary": [],
+    "note": "局部梯度内积归因；目前59类暂无直接匹配，不能据此归入隐式微分。",
+    "relation": "unmapped"
+  },
+  "icml2025-hierarchical-ot": {
+    "primary": [
+      "M20"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "icml2025-td-flow": {
+    "primary": [
+      "M45"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "icml2025-imm": {
+    "primary": [
+      "M21"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "icml2025-defog": {
+    "primary": [
+      "M52"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "icml2025-wow": {
+    "primary": [
+      "M59"
+    ],
+    "secondary": [
+      "M20"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "icml2023-subtb": {
+    "primary": [
+      "M47"
+    ],
+    "secondary": [],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "neurips2026-drifting": {
+    "primary": [
+      "M21"
+    ],
+    "secondary": [],
+    "note": "核诱导分布比较/粒子漂移；不等同现有流匹配训练。",
+    "relation": "related"
+  },
+  "neurips2026-ftrl-limits": {
+    "primary": [
+      "M33"
+    ],
+    "secondary": [
+      "M11"
+    ],
+    "note": "首标签为主要数学联系，次标签为辅助联系；是否严格等价须以论文机制为准。"
+  },
+  "icml2026-information-flow": {
+    "primary": [
+      "M30"
+    ],
+    "secondary": [],
+    "note": "可靠性诊断，与选择性预测相关；不代表共形覆盖保证。",
+    "relation": "related"
+  }
+}
